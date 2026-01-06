@@ -1,12 +1,12 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Explore Redux Toolkit with 4 project demos! Learn state management in React through practical examples like E-commerce Product cart, Todo App, Counter App, and CRUD Operation on Product cart.
+<hr>
+<h4>💻 Redux Toolkit Demo Projects :- </h4>
+<ol>
+  <li>E-commerce Product cart</li>
+  <li>Todo App</li>
+  <li>Counter App</li>
+  <li>CRUD Operation on Product cart</li>
+</ol>
+<hr>
+🚀 Run json-server for Mock API :-
+<h4>npx json-server --watch ./public/data.json --port 3001</h4>
