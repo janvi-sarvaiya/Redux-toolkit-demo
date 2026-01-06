@@ -1,0 +1,32 @@
+{
+  "cart": [
+    {
+      "name": "jecket",
+      "price": "200",
+      "category": "men",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "id": "7a17"
+    },
+    {
+      "name": "brecelet",
+      "price": "600",
+      "category": "jwellery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+      "id": "bd52"
+    },
+    {
+      "name": "SSD",
+      "price": "500",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+      "id": "b5f5"
+    },
+    {
+      "name": "jecket",
+      "price": "500",
+      "category": "men",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "id": "59e5"
+    }
+  ]
+}
