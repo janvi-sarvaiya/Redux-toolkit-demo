@@ -8,5 +8,8 @@ Explore Redux Toolkit with 4 project demos! Learn state management in React thro
   <li>CRUD Operation on Product cart</li>
 </ol>
 <hr>
-🚀 Run json-server for Mock API :-
-<h4>npx json-server --watch ./public/data.json --port 3001</h4>
+🚀 Run json-server for Mock API :- 
+
+```js
+npx json-server --watch ./public/data.json --port 3001
+```
